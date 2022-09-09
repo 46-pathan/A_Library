@@ -1,0 +1,43 @@
+.box1{
+    width: 40vw;
+    background-color:rgba(65, 184, 85, 0.5);
+    margin-top: 10vh;
+    margin-left: 28vw;
+    text-align: center;
+    font-size: 4vh;
+    padding-top: 5vh;
+    padding-bottom: 2vh;
+    color:black;
+}
+.box1 p{
+    font-size: 2vh;
+}
+.box1 h1{
+    color: white;
+}
+
+.box2{
+    width: 40vw;
+    background-color:rgba(65, 184, 85, 0.5);
+    margin-top: 6vh;
+    margin-left: 28vw;
+    text-align: center;
+    font-size: 4vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    color:black;
+}
+.box2 p{
+    font-size: 2vh;
+}
+.box2 h1{
+    color: white;
+}
+.lbl{
+    color: white;
+}
+.scroll{
+    width: 20vw;
+    height: 40vh;
+    overflow: auto;
+}

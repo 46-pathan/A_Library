@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:rgb(24, 19, 19);
+    
+}
+body {
+    background-image: url("images/image5.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.navbar {
+    color: black;
+    background-color: rgb(11, 146, 11);
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(11, 146, 11);
+   color: white;
+   text-align: center;
+  }
+.card{
+    background-color: darkgreen
+}
+h2{
+    text-align: center;
+}
+.box{
+    width: 40vw;
+    background-color:rgba(65, 184, 85, 0.5);
+    margin-top: 30vh;
+    margin-left: 28vw;
+    text-align: center;
+    font-size: 4vh;
+    padding-top: 5vh;
+    color:white
+}
+.box p{
+    font-size: 2vh;
+}
+.box h1{
+    color: white;
+}
+
+input{
+    height: 4vh;
+    width: 30vw;
+    font-size: 2vh;
+}
+button{
+    width: 5vw;
+    height: 3vh;
+    color: black;
+}
+li{
+    margin-left: 2vw;
+}
+
